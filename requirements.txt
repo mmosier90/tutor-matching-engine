@@ -1,0 +1,6 @@
+gspread
+gspread-dataframe
+matplotlib
+numpy
+pandas
+scikit-learn
